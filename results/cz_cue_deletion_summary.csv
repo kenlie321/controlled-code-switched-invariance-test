@@ -1,0 +1,7 @@
+model,n_rows,n_reviews,flip_delete_cue,ci_lo,ci_hi
+Logistic Regression,302,55,0.1,0.04,0.18
+Linear SVC,302,55,0.14,0.06,0.24
+BERT,302,55,0.13,0.06,0.21
+mBERT,302,55,0.13,0.06,0.2
+XLM-RoBERTa,302,55,0.14,0.06,0.22
+IndoBERT,302,55,0.15,0.07,0.24

@@ -1,0 +1,13 @@
+model,token,coefficient,rank_from_most_positive,n_features
+Logistic Regression,aplikasi,2.79,1,3077
+Logistic Regression,dari,0.541,106,3077
+Logistic Regression,kalau,-0.037,1388,3077
+Logistic Regression,cari,0.321,374,3077
+Logistic Regression,semua,0.136,886,3077
+Logistic Regression,travel,-0.241,2491,3077
+Linear SVC,aplikasi,1.371,1,3077
+Linear SVC,dari,0.376,161,3077
+Linear SVC,kalau,0.025,1268,3077
+Linear SVC,cari,0.276,267,3077
+Linear SVC,semua,0.053,1129,3077
+Linear SVC,travel,-0.133,2279,3077

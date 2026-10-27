@@ -1,0 +1,7 @@
+variant,position,language,Logistic Regression,Linear SVC,BERT,mBERT,XLM-RoBERTa,IndoBERT
+aplikasi ini Cukup membingungkan awal awal y.,Middle,Indonesian,Pos -> Pos,Pos -> Pos,Pos -> Neg,Pos -> Neg,Neg -> Neg,Pos -> Neg
+Quite confusing aplikasi ini awal awal y.,Beginning,English,Pos -> Pos,Pos -> Pos,Neg -> Neg,Neg -> Neg,Neg -> Neg,Neg -> Neg
+aplikasi ini Quite confusing awal awal y.,Middle,English,Pos -> Pos,Pos -> Pos,Neg -> Neg,Neg -> Neg,Neg -> Neg,Neg -> Neg
+Cukup membingungkan aplikasi ini awal awal y.,Beginning,Indonesian,Pos -> Pos,Pos -> Pos,Pos -> Neg,Pos -> Neg,Neg -> Neg,Pos -> Neg
+aplikasi ini awal awal Cukup membingungkan.,End,Indonesian,Pos -> Pos,Pos -> Pos,Pos -> Pos,Pos -> Neg,Neg -> Neg,Pos -> Pos
+aplikasi ini awal awal Quite confusing.,End,English,Pos -> Pos,Pos -> Pos,Neg -> Neg,Neg -> Neg,Neg -> Neg,Pos -> Neg

@@ -1,0 +1,331 @@
+reviewId,position,language,is_original,content,true_label,true_label_name,pred_logistic_regression,pred_linear_svc,pred_bert,pred_mbert,pred_xlm_roberta,pred_indobert
+077ca2c0-542a-466b-9f5a-4804767bd983,Beginning,English,N,"cannot reserve airline,sudah seminggu terakhir, kcuali Garuda",0,Negative,0,0,0,0,0,0
+077ca2c0-542a-466b-9f5a-4804767bd983,End,English,N,"kcuali Garuda, sudah seminggu terakhir cannot reserve airline",0,Negative,0,0,0,0,0,0
+077ca2c0-542a-466b-9f5a-4804767bd983,Middle,English,N,sudah seminggu terakhir cannot reserve airline kcuali Garuda,0,Negative,0,0,0,0,0,0
+077ca2c0-542a-466b-9f5a-4804767bd983,Beginning,Indonesian,N,"tidak bisa pesan maskapai,sudah seminggu terakhir, kcuali Garuda",0,Negative,0,0,0,0,0,0
+077ca2c0-542a-466b-9f5a-4804767bd983,End,Indonesian,N,"kcuali Garuda, sudah seminggu terakhir tidak bisa pesan maskapai",0,Negative,0,0,0,0,0,0
+077ca2c0-542a-466b-9f5a-4804767bd983,Middle,Indonesian,Y,sudah seminggu terakhir tidak bisa pesan maskapai kcuali Garuda,0,Negative,0,0,0,0,0,0
+0b101004-4425-4f69-9370-740d2f394b6c,Beginning,English,N,"very helpful umtuk memesan tiket, karena saya sering travelling",1,Positive,1,1,1,1,1,1
+0b101004-4425-4f69-9370-740d2f394b6c,End,English,N,"karena saya sering travelling, umtuk memesan tiket,very helpful",1,Positive,1,1,1,1,1,1
+0b101004-4425-4f69-9370-740d2f394b6c,Middle,English,N,"karena saya sering travelling,very helpful umtuk memesan tiket",1,Positive,1,1,1,1,1,1
+0b101004-4425-4f69-9370-740d2f394b6c,Beginning,Indonesian,Y,"sangat membantu umtuk memesan tiket, karena saya sering travelling",1,Positive,1,1,1,1,1,1
+0b101004-4425-4f69-9370-740d2f394b6c,End,Indonesian,N,"karena saya sering travelling, umtuk memesan tiket,sangat membantu ",1,Positive,1,1,1,1,1,1
+0b101004-4425-4f69-9370-740d2f394b6c,Middle,Indonesian,N,"karena saya sering travelling,sangat membantu umtuk memesan tiket",1,Positive,1,1,1,1,1,1
+11b4ea7e-ae35-417b-a227-c4b40f0b33c8,Beginning,English,N,"very helpful bagi kami saat traveling, Aplikasi ini.kemana aja.salam",1,Positive,1,1,1,1,1,1
+11b4ea7e-ae35-417b-a227-c4b40f0b33c8,End,English,N,"salam.kami kemana saja saat traveling, Aplikasi ini very helpful",1,Positive,1,1,1,1,1,1
+11b4ea7e-ae35-417b-a227-c4b40f0b33c8,Middle,English,N,Aplikasi ini very helpful bagi kami saat traveling.kemana aja.salam,1,Positive,1,1,1,1,1,1
+11b4ea7e-ae35-417b-a227-c4b40f0b33c8,Beginning,Indonesian,N,"sangat membantu kami saat traveling, Aplikasi ini.kemana aja.salam",1,Positive,1,1,1,1,1,1
+11b4ea7e-ae35-417b-a227-c4b40f0b33c8,End,Indonesian,N,"salam.kami kemana saja saat traveling, Aplikasi ini sangat membantu",1,Positive,1,1,1,1,1,1
+11b4ea7e-ae35-417b-a227-c4b40f0b33c8,Middle,Indonesian,Y,Aplikasi ini sangat membantu kami saat traveling.kemana aja.salam,1,Positive,1,1,1,1,1,1
+163d80fd-3f60-4e30-b0e5-f735047e0e1c,Beginning,English,N,very helpful Aplikasinya untuk mendapatkan layanan untuk hotel maupun tiket transportasi,1,Positive,1,1,1,1,1,1
+163d80fd-3f60-4e30-b0e5-f735047e0e1c,End,English,N,Aplikasi untuk mendapatkan layanan untuk hotel maupun tiket transportasi yang very helpful,1,Positive,1,1,1,1,1,1
+163d80fd-3f60-4e30-b0e5-f735047e0e1c,Middle,English,N,Aplikasi yang very helpful untuk mendapatkan layanan untuk hotel maupun tiket transportasi,1,Positive,1,1,1,1,1,1
+163d80fd-3f60-4e30-b0e5-f735047e0e1c,Beginning,Indonesian,N,sangat membantu Aplikasinya untuk mendapatkan layanan untuk hotel maupun tiket transportasi,1,Positive,1,1,1,1,1,1
+163d80fd-3f60-4e30-b0e5-f735047e0e1c,End,Indonesian,N,Aplikasi untuk mendapatkan layanan untuk hotel maupun tiket transportasi yang sangat membantu,1,Positive,1,1,1,1,1,1
+163d80fd-3f60-4e30-b0e5-f735047e0e1c,Middle,Indonesian,Y,Aplikasi yang sangat membantu untuk mendapatkan layanan untuk hotel maupun tiket transportasi,1,Positive,1,1,1,1,1,1
+1875a5c3-eca0-44d7-8dd4-15aad1a9a09a,Beginning,English,N,very helpful aplikasinya dalam pemesanan tiket pesawat dan Hotel,1,Positive,1,1,1,1,1,1
+1875a5c3-eca0-44d7-8dd4-15aad1a9a09a,End,English,N,"dalam pemesanan tiket pesawat dan Hotel,aplikasi yang very helpful",1,Positive,1,1,1,1,1,1
+1875a5c3-eca0-44d7-8dd4-15aad1a9a09a,Middle,English,N,aplikasi yang very helpful dalam pemesanan tiket pesawat dan Hotel,1,Positive,1,1,1,1,1,1
+1875a5c3-eca0-44d7-8dd4-15aad1a9a09a,Beginning,Indonesian,N,sangat membantu aplikasinya dalam pemesanan tiket pesawat dan Hotel,1,Positive,1,1,1,1,1,1
+1875a5c3-eca0-44d7-8dd4-15aad1a9a09a,End,Indonesian,N,"dalam pemesanan tiket pesawat dan Hotel,aplikasi yang sangat membantu",1,Positive,1,1,1,1,1,1
+1875a5c3-eca0-44d7-8dd4-15aad1a9a09a,Middle,Indonesian,Y,aplikasi yang sangat membantu dalam pemesanan tiket pesawat dan Hotel,1,Positive,1,1,1,1,1,1
+190908fd-5c54-4f0c-8994-624dbd5e7868,Beginning,English,N,good untuk jadi referensi dalam melihat harga perbandingan tiket,1,Positive,1,1,1,1,1,1
+190908fd-5c54-4f0c-8994-624dbd5e7868,End,English,N,"untuk jadi referensi dalam melihat harga perbandingan tiket, Good",1,Positive,1,1,1,1,1,1
+190908fd-5c54-4f0c-8994-624dbd5e7868,Middle,English,N,untuk jadi Good referensi dalam melihat harga perbandingan tiket,1,Positive,1,1,1,1,1,1
+190908fd-5c54-4f0c-8994-624dbd5e7868,Beginning,Indonesian,Y,Bagus untuk jadi referensi dalam melihat harga perbandingan tiket,1,Positive,1,1,1,1,1,1
+190908fd-5c54-4f0c-8994-624dbd5e7868,End,Indonesian,N,"untuk jadi referensi dalam melihat harga perbandingan tiket, Bagus",1,Positive,1,1,1,1,1,1
+190908fd-5c54-4f0c-8994-624dbd5e7868,Middle,Indonesian,N,untuk jadi referensi Bagus dalam melihat harga perbandingan tiket,1,Positive,1,1,1,1,1,1
+1afc925b-0bbf-49c6-8a6a-cc16fe693b8d,Beginning,English,N,unclear Ticketing untuk semua konser K-Pop.,0,Negative,1,1,0,0,0,0
+1afc925b-0bbf-49c6-8a6a-cc16fe693b8d,End,English,N,Ticketing untuk konser K-Pop semua unclear.,0,Negative,1,1,0,0,0,0
+1afc925b-0bbf-49c6-8a6a-cc16fe693b8d,Middle,English,N,Ticketing unclear untuk semua konser K-Pop.,0,Negative,1,1,0,0,0,0
+1afc925b-0bbf-49c6-8a6a-cc16fe693b8d,Beginning,Indonesian,N,tidak jelas Ticketing untuk semua konser K-Pop.,0,Negative,0,0,0,0,0,0
+1afc925b-0bbf-49c6-8a6a-cc16fe693b8d,End,Indonesian,Y,Ticketing untuk konser K-Pop semua tidak jelas.,0,Negative,0,0,0,0,0,0
+1afc925b-0bbf-49c6-8a6a-cc16fe693b8d,Middle,Indonesian,N,Ticketing tidak jelas untuk semua konser K-Pop.,0,Negative,0,0,0,0,0,0
+21d986d3-0f89-4144-a4e2-9fb6a79f4868,Beginning,English,N,Very comfortable di gunakan untuk versi yang baru,1,Positive,1,1,1,1,1,1
+21d986d3-0f89-4144-a4e2-9fb6a79f4868,End,English,N,"untuk versi yang baru, di gunakannya Very comfortable",1,Positive,1,1,1,1,1,1
+21d986d3-0f89-4144-a4e2-9fb6a79f4868,Middle,English,N,"untuk versi yang baru, Very comfortable di gunakan",1,Positive,1,1,1,1,1,1
+21d986d3-0f89-4144-a4e2-9fb6a79f4868,Beginning,Indonesian,Y,Sangat nyaman di gunakan untuk versi yang baru,1,Positive,1,1,1,1,1,1
+21d986d3-0f89-4144-a4e2-9fb6a79f4868,End,Indonesian,N,"untuk versi yang baru, di gunakannya Sangat nyaman",1,Positive,1,1,1,1,1,1
+21d986d3-0f89-4144-a4e2-9fb6a79f4868,Middle,Indonesian,N,"untuk versi yang baru, Sangat nyaman di gunakan",1,Positive,1,1,1,1,1,1
+2ed3a5bc-2abe-49ea-b58e-73100cc63252,Beginning,English,N,"good Aplikasi ini, bisa pesan tiket lewat hp",1,Positive,1,1,1,1,1,1
+2ed3a5bc-2abe-49ea-b58e-73100cc63252,End,English,N,"bisa pesan tiket lewat hp, Aplikasi ini good",1,Positive,1,1,1,1,1,1
+2ed3a5bc-2abe-49ea-b58e-73100cc63252,Middle,English,N,"Aplikasi ini good, bisa pesan tiket lewat hp",1,Positive,1,1,1,1,1,1
+2ed3a5bc-2abe-49ea-b58e-73100cc63252,Beginning,Indonesian,N,"bagus Aplikasi ini, bisa pesan tiket lewat hp",1,Positive,1,1,1,1,1,1
+2ed3a5bc-2abe-49ea-b58e-73100cc63252,End,Indonesian,N,"bisa pesan tiket lewat hp, Aplikasi ini bagus",1,Positive,1,1,1,1,1,1
+2ed3a5bc-2abe-49ea-b58e-73100cc63252,Middle,Indonesian,Y,"Aplikasi ini bagus, bisa pesan tiket lewat hp",1,Positive,1,1,1,1,1,1
+30284f37-3e99-4d5b-9843-55b6a71b956c,Beginning,English,N,Quite confusing aplikasi ini awal awal y.,0,Negative,1,1,0,0,0,0
+30284f37-3e99-4d5b-9843-55b6a71b956c,End,English,N,aplikasi ini awal awal Quite confusing.,0,Negative,1,1,0,0,0,1
+30284f37-3e99-4d5b-9843-55b6a71b956c,Middle,English,N,aplikasi ini Quite confusing awal awal y.,0,Negative,1,1,0,0,0,0
+30284f37-3e99-4d5b-9843-55b6a71b956c,Beginning,Indonesian,Y,Cukup membingungkan aplikasi ini awal awal y.,0,Negative,1,1,1,1,0,1
+30284f37-3e99-4d5b-9843-55b6a71b956c,End,Indonesian,N,aplikasi ini awal awal Cukup membingungkan.,0,Negative,1,1,1,1,0,1
+30284f37-3e99-4d5b-9843-55b6a71b956c,Middle,Indonesian,N,aplikasi ini Cukup membingungkan awal awal y.,0,Negative,1,1,1,1,0,1
+30ae11a4-5039-4c05-b86b-59d07baacca5,Beginning,English,N,not available pembayaran via indomaret atau alfamart kalo malam,0,Negative,0,0,0,0,0,0
+30ae11a4-5039-4c05-b86b-59d07baacca5,End,English,N,kalo malam pembayaran via indomaret atau alfamart not available,0,Negative,0,0,0,0,0,0
+30ae11a4-5039-4c05-b86b-59d07baacca5,Middle,English,N,kalo malam pembayaran not available via indomaret atau alfamart,0,Negative,0,0,0,0,0,0
+30ae11a4-5039-4c05-b86b-59d07baacca5,Beginning,Indonesian,N,tidak tersedia pembayaran via indomaret atau alfamart kalo malam,0,Negative,0,0,0,0,0,0
+30ae11a4-5039-4c05-b86b-59d07baacca5,End,Indonesian,Y,kalo malam pembayaran via indomaret atau alfamart tidak tersedia,0,Negative,0,0,0,0,0,0
+30ae11a4-5039-4c05-b86b-59d07baacca5,Middle,Indonesian,N,kalo malam pembayaran tidak tersedia via indomaret atau alfamart,0,Negative,0,0,0,0,0,0
+4144b295-e407-486f-a92d-179cff3d38c5,Beginning,English,N,"liat jadwal kereta, Tiap kali selalu tidak muncul",0,Negative,0,0,0,0,0,0
+4144b295-e407-486f-a92d-179cff3d38c5,End,English,N,Tiap kali liat jadwal kereta always does not appear,0,Negative,0,0,0,0,0,0
+4144b295-e407-486f-a92d-179cff3d38c5,Middle,English,N,"Tiap kali, always does not appear saat liat jadwal kereta",0,Negative,0,0,0,0,0,0
+4144b295-e407-486f-a92d-179cff3d38c5,Beginning,Indonesian,N,"liat jadwal kereta, Tiap kali always does not appear",0,Negative,0,0,0,0,0,0
+4144b295-e407-486f-a92d-179cff3d38c5,End,Indonesian,Y,Tiap kali liat jadwal kereta selalu tidak muncul,0,Negative,0,0,0,0,0,0
+4144b295-e407-486f-a92d-179cff3d38c5,Middle,Indonesian,N,"Tiap kali, selalu tidak muncul saat liat jadwal kereta",0,Negative,0,0,0,0,0,0
+4637138d-9455-4244-a9bb-b2139a2dd6bd,Beginning,English,N,Very helpful bagi saya untuk memesan tiket dan hotel,1,Positive,1,1,1,1,1,1
+4637138d-9455-4244-a9bb-b2139a2dd6bd,End,English,N,"bagi saya, untuk memesan tiket dan hotel, Very helpful",1,Positive,1,1,1,1,1,1
+4637138d-9455-4244-a9bb-b2139a2dd6bd,Middle,English,N,"bagi saya, Very helpful untuk memesan tiket dan hotel",1,Positive,1,1,1,1,1,1
+4637138d-9455-4244-a9bb-b2139a2dd6bd,Beginning,Indonesian,Y,Sangat membantu saya untuk memesan tiket dan hotel,1,Positive,1,1,1,1,1,1
+4637138d-9455-4244-a9bb-b2139a2dd6bd,End,Indonesian,N,"bagi saya, untuk memesan tiket dan hotel, Sangat membantu",1,Positive,1,1,1,1,1,1
+4637138d-9455-4244-a9bb-b2139a2dd6bd,Middle,Indonesian,N,"bagi saya, Sangat membantu untuk memesan tiket dan hotel",1,Positive,1,1,1,1,1,1
+476c9ff8-5449-4811-83c8-84213b37bded,Beginning,English,N,Very helpful dalam berbisnis travel ataupun pemakaian pribadi,1,Positive,1,1,1,1,1,1
+476c9ff8-5449-4811-83c8-84213b37bded,End,English,N,"dalam berbisnis travel ataupun pemakaian pribadi, Very helpful",1,Positive,1,1,1,1,1,1
+476c9ff8-5449-4811-83c8-84213b37bded,Middle,English,N,"dalam berbisnis, Very helpful baik travel ataupun pemakaian pribadi",1,Positive,1,1,1,1,1,1
+476c9ff8-5449-4811-83c8-84213b37bded,Beginning,Indonesian,Y,Sangat membantu dalam berbisnis travel ataupun pemakaian pribadi,1,Positive,1,1,1,1,1,1
+476c9ff8-5449-4811-83c8-84213b37bded,End,Indonesian,N,"dalam berbisnis travel ataupun pemakaian pribadi, Sangat membantu",1,Positive,1,1,1,1,1,1
+476c9ff8-5449-4811-83c8-84213b37bded,Middle,Indonesian,N,"dalam berbisnis, Sangat membantu baik travel ataupun pemakaian pribadi",1,Positive,1,1,1,1,1,1
+4d1194df-b21c-4bc2-9427-f31dd2a4b7a2,Beginning,English,N,very helpful buat pengguna yang membutuhkan jadi gak perlu antre.,1,Positive,1,1,1,1,1,1
+4d1194df-b21c-4bc2-9427-f31dd2a4b7a2,End,English,N,"jadi gak perlu antre, buat pengguna yang membutuhkan, very helpful.",1,Positive,1,1,1,1,1,1
+4d1194df-b21c-4bc2-9427-f31dd2a4b7a2,Middle,English,N,"jadi gak perlu antre, very helpful buat pengguna yang membutuhkan.",1,Positive,1,1,1,1,1,1
+4d1194df-b21c-4bc2-9427-f31dd2a4b7a2,Beginning,Indonesian,Y,sangat membantu buat pengguna yang membutuhkan jadi gak perlu antre.,1,Positive,1,1,1,1,1,1
+4d1194df-b21c-4bc2-9427-f31dd2a4b7a2,End,Indonesian,N,"jadi gak perlu antre, buat pengguna yang membutuhkan, sangat membantu.",1,Positive,1,1,1,1,1,1
+4d1194df-b21c-4bc2-9427-f31dd2a4b7a2,Middle,Indonesian,N,"jadi gak perlu antre, sangat membantu buat pengguna yang membutuhkan.",1,Positive,1,1,1,1,1,1
+4f1bb4f4-94c4-425b-91b0-c5b39d5a7bc3,Beginning,English,N,still difficult to secure saat Cari tiket mudik pas lebaran.,0,Negative,0,0,0,0,0,0
+4f1bb4f4-94c4-425b-91b0-c5b39d5a7bc3,End,English,N,Cari tiket mudik pas lebaran still difficult to secure.,0,Negative,0,0,0,0,0,0
+4f1bb4f4-94c4-425b-91b0-c5b39d5a7bc3,Middle,English,N,Cari tiket mudik still difficult to secure pas lebaran.,0,Negative,0,0,0,0,0,0
+4f1bb4f4-94c4-425b-91b0-c5b39d5a7bc3,Beginning,Indonesian,N,tetap susah dapetnya saat Cari tiket mudik pas lebaran.,0,Negative,0,0,0,0,0,0
+4f1bb4f4-94c4-425b-91b0-c5b39d5a7bc3,End,Indonesian,Y,Cari tiket mudik pas lebaran tetap susah dapetnya.,0,Negative,0,0,0,0,0,0
+4f1bb4f4-94c4-425b-91b0-c5b39d5a7bc3,Middle,Indonesian,N,Cari tiket mudik tetap susah dapetnya pas lebaran.,0,Negative,0,0,0,0,0,0
+548cf461-f62f-4146-be8a-c0612ac1f411,Beginning,English,N,Always satisfied dg aplikasi ini bwt pesan tiket kereta.,1,Positive,1,1,1,1,1,1
+548cf461-f62f-4146-be8a-c0612ac1f411,End,English,N,"bwt pesan tiket kereta, Always satisfied dg aplikasi ini.",1,Positive,1,1,0,1,1,1
+548cf461-f62f-4146-be8a-c0612ac1f411,Middle,English,N,dg aplikasi ini Always satisfied bwt pesan tiket kereta.,1,Positive,1,1,1,1,1,1
+548cf461-f62f-4146-be8a-c0612ac1f411,Beginning,Indonesian,Y,Selalu puas dg aplikasi ini bwt pesan tiket kereta.,1,Positive,1,1,0,1,1,1
+548cf461-f62f-4146-be8a-c0612ac1f411,End,Indonesian,N,"bwt pesan tiket kereta, Selalu puas dg aplikasi ini.",1,Positive,1,1,1,1,1,1
+548cf461-f62f-4146-be8a-c0612ac1f411,Middle,Indonesian,N,dg aplikasi ini Selalu puas bwt pesan tiket kereta.,1,Positive,1,1,0,1,1,1
+5d9dd4cd-a178-4786-bd0d-de7b7e910c2f,Beginning,English,N,most recommended Aplikasi kalau mau dipakai untuk inspirasi bepergian,1,Positive,1,1,1,1,1,0
+5d9dd4cd-a178-4786-bd0d-de7b7e910c2f,End,English,N,"kalau mau dipakai untuk inspirasi bepergian, Aplikasinya most recommended",1,Positive,1,1,1,1,1,1
+5d9dd4cd-a178-4786-bd0d-de7b7e910c2f,Middle,English,N,Aplikasi most recommended kalau mau dipakai untuk inspirasi bepergian,1,Positive,1,1,1,1,1,0
+5d9dd4cd-a178-4786-bd0d-de7b7e910c2f,Beginning,Indonesian,N,paling rekomen Aplikasinya kalau mau dipakai untuk inspirasi bepergian,1,Positive,1,1,1,1,1,1
+5d9dd4cd-a178-4786-bd0d-de7b7e910c2f,End,Indonesian,N,"kalau mau dipakai untuk inspirasi bepergian, Aplikasinya paling rekomen",1,Positive,1,1,1,1,1,1
+5d9dd4cd-a178-4786-bd0d-de7b7e910c2f,Middle,Indonesian,Y,Aplikasi paling rekomen kalau mau dipakai untuk inspirasi bepergian,1,Positive,1,1,1,1,1,1
+5f9469dc-5c0d-4a28-a8b2-7c033fbc3714,Beginning,English,N,VERY BROKEN STREAMING JKT48 2 Hari berturut turut!,0,Negative,0,0,0,0,0,0
+5f9469dc-5c0d-4a28-a8b2-7c033fbc3714,End,English,N,2 Hari berturut turut STREAMING JKT48 VERY BROKEN!,0,Negative,0,0,0,0,0,0
+5f9469dc-5c0d-4a28-a8b2-7c033fbc3714,Middle,English,N,2 Hari berturut turut VERY BROKEN STREAMING JKT48!,0,Negative,0,0,0,0,0,0
+5f9469dc-5c0d-4a28-a8b2-7c033fbc3714,Beginning,Indonesian,N,HANCUR PARAH STREAMING JKT48 2 Hari berturut turut!,0,Negative,0,0,0,0,0,0
+5f9469dc-5c0d-4a28-a8b2-7c033fbc3714,End,Indonesian,Y,2 Hari berturut turut STREAMING JKT48 HANCUR PARAH!,0,Negative,0,0,0,0,0,0
+5f9469dc-5c0d-4a28-a8b2-7c033fbc3714,Middle,Indonesian,N,2 Hari berturut turut HANCUR PARAH STREAMING JKT48!,0,Negative,0,0,0,0,0,0
+6e499e1a-aef6-4638-8ec5-8f44c5720e4a,Beginning,English,N,easiest Aplikasinya untuk pesen tiket,1,Positive,1,1,1,1,1,1
+6e499e1a-aef6-4638-8ec5-8f44c5720e4a,End,English,N,Aplikasi pesen tiket yg easiest,1,Positive,1,1,1,1,1,1
+6e499e1a-aef6-4638-8ec5-8f44c5720e4a,Middle,English,N,Aplikasi easiest untuk pesen tiket,1,Positive,1,1,1,1,1,1
+6e499e1a-aef6-4638-8ec5-8f44c5720e4a,Beginning,Indonesian,N,paling mudah Aplikasinya untuk pesen tiket,1,Positive,1,1,1,1,1,1
+6e499e1a-aef6-4638-8ec5-8f44c5720e4a,End,Indonesian,Y,Aplikasi pesen tiket yg paling mudah,1,Positive,1,1,1,1,1,1
+6e499e1a-aef6-4638-8ec5-8f44c5720e4a,Middle,Indonesian,N,Aplikasi paling mudah untuk pesen tiket,1,Positive,1,1,1,1,1,1
+721dd8e8-6da8-4e1c-89cb-d8b536687b16,Beginning,English,N,very helpful Aplikasinya dalam mencari informasi harga tiket atau hotel,1,Positive,1,1,1,1,1,1
+721dd8e8-6da8-4e1c-89cb-d8b536687b16,End,English,N,"dalam mencari informasi harga tiket atau hotel, Aplikasinya very helpful",1,Positive,1,1,1,1,1,1
+721dd8e8-6da8-4e1c-89cb-d8b536687b16,Middle,English,N,Aplikasinya very helpful dalam mencari informasi harga tiket atau hotel,1,Positive,1,1,1,1,1,1
+721dd8e8-6da8-4e1c-89cb-d8b536687b16,Beginning,Indonesian,N,sangat membantu Aplikasinya dalam mencari informasi harga tiket atau hotel,1,Positive,1,1,1,1,1,1
+721dd8e8-6da8-4e1c-89cb-d8b536687b16,End,Indonesian,N,"dalam mencari informasi harga tiket atau hotel, Aplikasinya sangat membantu",1,Positive,1,1,1,1,1,1
+721dd8e8-6da8-4e1c-89cb-d8b536687b16,Middle,Indonesian,Y,Aplikasinya sangat membantu dalam mencari informasi harga tiket atau hotel,1,Positive,1,1,1,1,1,1
+76bc20f3-764b-4a5f-bc96-445e727045a3,Beginning,English,N,good aplikasinya utk tiket pesawat online,1,Positive,1,1,1,1,1,1
+76bc20f3-764b-4a5f-bc96-445e727045a3,End,English,N,"utk tiket pesawat online,aplikasinya good",1,Positive,1,1,1,1,1,1
+76bc20f3-764b-4a5f-bc96-445e727045a3,Middle,English,N,aplikasinya good utk tiket pesawat online,1,Positive,1,1,1,1,1,1
+76bc20f3-764b-4a5f-bc96-445e727045a3,Beginning,Indonesian,Y,bagus aplikasinya utk tiket pesawat online,1,Positive,1,1,1,1,1,1
+76bc20f3-764b-4a5f-bc96-445e727045a3,End,Indonesian,N,"utk tiket pesawat online,aplikasinya bagus",1,Positive,1,1,1,1,1,1
+76bc20f3-764b-4a5f-bc96-445e727045a3,Middle,Indonesian,N,aplikasinya bagus utk tiket pesawat online,1,Positive,1,1,1,1,1,1
+783e2664-6adb-41b4-964c-760fd6b0cd8b,Beginning,English,N,always error system ketika tinggal melakukan pembayaran,0,Negative,0,0,0,0,0,0
+783e2664-6adb-41b4-964c-760fd6b0cd8b,End,English,N,"ketika tinggal melakukan pembayaran,system always error",0,Negative,0,0,0,0,0,0
+783e2664-6adb-41b4-964c-760fd6b0cd8b,Middle,English,N,system always error ketika tinggal melakukan pembayaran,0,Negative,0,0,0,0,0,0
+783e2664-6adb-41b4-964c-760fd6b0cd8b,Beginning,Indonesian,N,selalu galat system ketika tinggal melakukan pembayaran,0,Negative,0,0,0,0,0,0
+783e2664-6adb-41b4-964c-760fd6b0cd8b,End,Indonesian,N,"ketika tinggal melakukan pembayaran,system selalu galat",0,Negative,0,0,0,0,0,0
+783e2664-6adb-41b4-964c-760fd6b0cd8b,Middle,Indonesian,Y,system selalu galat ketika tinggal melakukan pembayaran,0,Negative,0,0,0,0,0,0
+784b214b-41a2-4312-87e5-526fddeeae18,Beginning,English,N,does not appear nomernya virtual acontnya saat Mau pembayaran,0,Negative,0,0,0,0,0,0
+784b214b-41a2-4312-87e5-526fddeeae18,End,English,N,"Mau pembayaran, nomernya virtual acontnya does not appear",0,Negative,0,0,0,0,0,0
+784b214b-41a2-4312-87e5-526fddeeae18,Middle,English,N,Mau pembayaran does not appear nomernya virtual acontnya,0,Negative,0,0,0,0,0,0
+784b214b-41a2-4312-87e5-526fddeeae18,Beginning,Indonesian,N,tidak muncul nomernya virtual acontnya saat Mau pembayaran,0,Negative,0,0,0,0,0,0
+784b214b-41a2-4312-87e5-526fddeeae18,End,Indonesian,N,"Mau pembayaran, nomernya virtual acontnya tidak muncul",0,Negative,0,0,0,0,0,0
+784b214b-41a2-4312-87e5-526fddeeae18,Middle,Indonesian,Y,Mau pembayaran tidak muncul nomernya virtual acontnya,0,Negative,0,0,0,0,0,0
+79dcc918-b941-46aa-bb33-e929646bde5e,Beginning,English,N,"not published Voucher tiket, sudah satu jam lebih",0,Negative,0,0,0,0,0,0
+79dcc918-b941-46aa-bb33-e929646bde5e,End,English,N,Voucher tiket satu jam lebih not published,0,Negative,0,0,0,0,0,0
+79dcc918-b941-46aa-bb33-e929646bde5e,Middle,English,N,satu jam lebih not published Voucher tiketnya,0,Negative,0,0,0,0,0,0
+79dcc918-b941-46aa-bb33-e929646bde5e,Beginning,Indonesian,N,"tidak terbit Voucher tiket, sudah satu jam lebih",0,Negative,0,0,0,0,0,0
+79dcc918-b941-46aa-bb33-e929646bde5e,End,Indonesian,Y,Voucher tiket satu jam lebih tidak terbit,0,Negative,0,0,0,0,0,0
+79dcc918-b941-46aa-bb33-e929646bde5e,Middle,Indonesian,N,satu jam lebih tidak terbit Voucher tiketnya,0,Negative,0,0,0,0,0,0
+7a358f11-a461-4812-9045-1a957e15e497,Beginning,English,N,Unavailable pemilihan berangkat plabuhan Banjarmasin,0,Negative,0,0,0,0,0,0
+7a358f11-a461-4812-9045-1a957e15e497,End,English,N,pemilihan berangkat plabuhan Banjarmasin Unavailable,0,Negative,0,0,0,0,0,0
+7a358f11-a461-4812-9045-1a957e15e497,Middle,English,N,pemilihan berangkat Unavailable dari plabuhan Banjarmasin,0,Negative,1,1,0,0,0,0
+7a358f11-a461-4812-9045-1a957e15e497,Beginning,Indonesian,Y,Tidak ada pemilihan berangkat plabuhan Banjarmasin,0,Negative,0,0,0,0,0,0
+7a358f11-a461-4812-9045-1a957e15e497,End,Indonesian,N,pemilihan berangkat plabuhan Banjarmasin Tidak ada,0,Negative,0,0,0,0,0,0
+7a358f11-a461-4812-9045-1a957e15e497,Middle,Indonesian,N,pemilihan berangkat Tidak ada dari plabuhan Banjarmasin,0,Negative,0,0,0,0,0,0
+7a7728ba-2ef8-4bc7-a12d-0b4f4c447bc2,Beginning,English,N,more economical pesan hotel dari tiket. com,1,Positive,1,1,1,1,1,1
+7a7728ba-2ef8-4bc7-a12d-0b4f4c447bc2,End,English,N,pesan hotel dari tiket. com more economical,1,Positive,1,1,1,1,1,1
+7a7728ba-2ef8-4bc7-a12d-0b4f4c447bc2,Middle,English,N,pesan hotel more economical dari tiket. com,1,Positive,1,1,1,1,1,1
+7a7728ba-2ef8-4bc7-a12d-0b4f4c447bc2,Beginning,Indonesian,N,lebih hemat pesan hotel dari tiket. com,1,Positive,1,1,1,0,1,1
+7a7728ba-2ef8-4bc7-a12d-0b4f4c447bc2,End,Indonesian,Y,pesan hotel dari tiket. com lebih hemat,1,Positive,1,1,1,0,1,1
+7a7728ba-2ef8-4bc7-a12d-0b4f4c447bc2,Middle,Indonesian,N,pesan hotel lebih hemat dari tiket. com,1,Positive,1,1,1,0,1,1
+8122ecf8-3de5-4f93-a513-de02cb9df4e7,Beginning,English,N,quite helpful untuk pesan tiket pesawat jika ada agenda mendadak keluar kota,1,Positive,1,1,1,1,1,1
+8122ecf8-3de5-4f93-a513-de02cb9df4e7,End,English,N,untuk pesan tiket pesawat jika ada agenda mendadak keluar kota quite helpful,1,Positive,1,1,1,1,1,1
+8122ecf8-3de5-4f93-a513-de02cb9df4e7,Middle,English,N,untuk pesan tiket pesawat quite helpful jika ada agenda mendadak keluar kota,1,Positive,1,1,1,1,1,1
+8122ecf8-3de5-4f93-a513-de02cb9df4e7,Beginning,Indonesian,Y,cukup membantu untuk pesan tiket pesawat jika ada agenda mendadak keluar kota,1,Positive,1,1,1,1,1,1
+8122ecf8-3de5-4f93-a513-de02cb9df4e7,End,Indonesian,N,untuk pesan tiket pesawat jika ada agenda mendadak keluar kota cukup membantu,1,Positive,1,1,1,1,1,1
+8122ecf8-3de5-4f93-a513-de02cb9df4e7,Middle,Indonesian,N,untuk pesan tiket pesawat cukup membantu jika ada agenda mendadak keluar kota,1,Positive,1,1,1,1,1,1
+823c1db8-0ffe-435e-9c98-fea93691bef1,Beginning,English,N,"troublesome, Setiap mau pakai harus downloud",0,Negative,0,0,0,0,0,0
+823c1db8-0ffe-435e-9c98-fea93691bef1,End,English,N,"Setiap mau pakai harus downloud, troublesome",0,Negative,0,0,0,0,0,0
+823c1db8-0ffe-435e-9c98-fea93691bef1,Middle,English,N,"Setiap mau pakai, troublesome, harus downloud",0,Negative,0,0,0,0,0,0
+823c1db8-0ffe-435e-9c98-fea93691bef1,Beginning,Indonesian,N,"repot, Setiap mau pakai harus downloud",0,Negative,0,0,0,0,0,0
+823c1db8-0ffe-435e-9c98-fea93691bef1,End,Indonesian,N,"Setiap mau pakai harus downloud, repot",0,Negative,0,0,0,0,0,0
+823c1db8-0ffe-435e-9c98-fea93691bef1,Middle,Indonesian,Y,"Setiap mau pakai, repot, harus downloud",0,Negative,0,0,0,0,0,0
+877f10de-14e2-4bb2-9934-3ab5ed1b7b2e,Beginning,English,N,very easy aplikasinya untuk pemesanan tiket,1,Positive,1,1,1,1,1,1
+877f10de-14e2-4bb2-9934-3ab5ed1b7b2e,End,English,N,aplikasi untuk pemesanan tiket yg very easy,1,Positive,1,1,1,1,1,1
+877f10de-14e2-4bb2-9934-3ab5ed1b7b2e,Middle,English,N,aplikasi yg very easy untuk pemesanan tiket,1,Positive,1,1,1,1,1,1
+877f10de-14e2-4bb2-9934-3ab5ed1b7b2e,Beginning,Indonesian,N,sangat mudah aplikasinya untuk pemesanan tiket,1,Positive,1,1,1,1,1,1
+877f10de-14e2-4bb2-9934-3ab5ed1b7b2e,End,Indonesian,N,aplikasi untuk pemesanan tiket yg sangat mudah,1,Positive,1,1,1,1,1,1
+877f10de-14e2-4bb2-9934-3ab5ed1b7b2e,Middle,Indonesian,Y,aplikasi yg sangat mudah untuk pemesanan tiket,1,Positive,1,1,1,1,1,1
+8cd0759f-a3bc-487e-8c3b-8efefbfa7949,Beginning,English,N,Quite complicated cari multipayment utk transferpay.,0,Negative,1,1,0,0,0,0
+8cd0759f-a3bc-487e-8c3b-8efefbfa7949,End,English,N,cari multipayment utk transferpay Quite complicated.,0,Negative,1,1,0,0,0,0
+8cd0759f-a3bc-487e-8c3b-8efefbfa7949,Middle,English,N,cari multipayment Quite complicated utk transferpay.,0,Negative,1,1,0,0,0,0
+8cd0759f-a3bc-487e-8c3b-8efefbfa7949,Beginning,Indonesian,Y,Agak ribet cari multipayment utk transferpay.,0,Negative,0,1,0,0,0,1
+8cd0759f-a3bc-487e-8c3b-8efefbfa7949,End,Indonesian,N,cari multipayment utk transferpay Agak ribet.,0,Negative,0,1,0,0,0,1
+8cd0759f-a3bc-487e-8c3b-8efefbfa7949,Middle,Indonesian,N,cari multipayment Agak ribet utk transferpay.,0,Negative,0,1,0,0,0,1
+8f1c65cf-63b7-4d53-809a-7887cd91d844,Beginning,English,N,become better perekonomian kami bersama tiket. com,1,Positive,1,1,1,1,1,1
+8f1c65cf-63b7-4d53-809a-7887cd91d844,End,English,N,bersama tiket. com membuat perekonomian kami become better,1,Positive,1,1,1,1,1,1
+8f1c65cf-63b7-4d53-809a-7887cd91d844,Middle,English,N,membuat perekonomian kami become better bersama tiket. com,1,Positive,1,1,1,1,1,1
+8f1c65cf-63b7-4d53-809a-7887cd91d844,Beginning,Indonesian,N,jadi lebih baik perekonomian kami bersama tiket. com,1,Positive,1,1,1,1,1,1
+8f1c65cf-63b7-4d53-809a-7887cd91d844,End,Indonesian,N,bersama tiket. com membuat perekonomian kami jadi lebih baik,1,Positive,1,1,1,1,1,1
+8f1c65cf-63b7-4d53-809a-7887cd91d844,Middle,Indonesian,Y,membuat perekonomian kami jadi lebih baik bersama tiket. com,1,Positive,1,1,1,1,1,1
+97aaceec-41fe-475e-9e2f-fb06b7e2e48c,Beginning,English,N,"not friendly admin nya saat di wa, Aelah",0,Negative,0,0,0,0,0,0
+97aaceec-41fe-475e-9e2f-fb06b7e2e48c,End,English,N,"Aelah admin nya saat di wa, not friendly",0,Negative,0,0,0,0,0,0
+97aaceec-41fe-475e-9e2f-fb06b7e2e48c,Middle,English,N,Aelah admin nya not friendly saat di wa,0,Negative,0,0,0,0,0,0
+97aaceec-41fe-475e-9e2f-fb06b7e2e48c,Beginning,Indonesian,N,"tidak ramah admin nya saat di wa, Aelah",0,Negative,0,0,0,0,0,0
+97aaceec-41fe-475e-9e2f-fb06b7e2e48c,End,Indonesian,N,"Aelah admin nya saat di wa, tidak ramah",0,Negative,0,0,0,0,0,0
+97aaceec-41fe-475e-9e2f-fb06b7e2e48c,Middle,Indonesian,Y,Aelah admin nya tidak ramah saat di wa,0,Negative,0,0,0,0,0,0
+9fe7a0a2-2ce9-4dce-97fb-685e18ea9d9f,Beginning,English,N,not available Masa jemputan bandara sultan hasanudin,0,Negative,0,0,0,0,0,0
+9fe7a0a2-2ce9-4dce-97fb-685e18ea9d9f,End,English,N,Masa jemputan bandara sultan hasanudin not available,0,Negative,0,0,0,0,0,0
+9fe7a0a2-2ce9-4dce-97fb-685e18ea9d9f,Middle,English,N,Masa jemputan not available di bandara sultan hasanudin,0,Negative,0,0,0,0,0,0
+9fe7a0a2-2ce9-4dce-97fb-685e18ea9d9f,Beginning,Indonesian,N,tidak ada Masa jemputan bandara sultan hasanudin,0,Negative,0,0,0,0,0,0
+9fe7a0a2-2ce9-4dce-97fb-685e18ea9d9f,End,Indonesian,Y,Masa jemputan bandara sultan hasanudin tidak ada,0,Negative,0,0,0,0,0,0
+9fe7a0a2-2ce9-4dce-97fb-685e18ea9d9f,Middle,Indonesian,N,Masa jemputan tidak ada di bandara sultan hasanudin,0,Negative,0,0,0,0,0,0
+a531e872-03fd-4d1d-b97d-3cef90bd35e1,Beginning,English,N,easier untuk memesan tiket kalo mau pulang kampung,1,Positive,1,1,1,1,1,1
+a531e872-03fd-4d1d-b97d-3cef90bd35e1,End,English,N,"untuk memesan tiket kalo mau pulang kampung,easier",1,Positive,1,1,1,1,1,1
+a531e872-03fd-4d1d-b97d-3cef90bd35e1,Middle,English,N,"kalo mau pulang kampung, easier untuk memesan tiket",1,Positive,1,1,1,1,1,1
+a531e872-03fd-4d1d-b97d-3cef90bd35e1,Beginning,Indonesian,Y,lebih mudah untuk memesan tiket kalo mau pulang kampung,1,Positive,1,1,1,1,1,1
+a531e872-03fd-4d1d-b97d-3cef90bd35e1,End,Indonesian,N,"untuk memesan tiket kalo mau pulang kampung,lebih mudah",1,Positive,1,1,1,1,1,1
+a531e872-03fd-4d1d-b97d-3cef90bd35e1,Middle,Indonesian,N,"kalo mau pulang kampung, lebih mudah untuk memesan tiket",1,Positive,1,1,1,1,1,1
+b3c177ca-2491-4d9d-890f-9e825d856239,Beginning,English,N,make things much easier untuk mendapat informasi Dari sini,1,Positive,1,1,1,1,1,1
+b3c177ca-2491-4d9d-890f-9e825d856239,End,English,N,"untuk mendapat informasi, Dari sini make things much easier",1,Positive,1,1,1,1,1,1
+b3c177ca-2491-4d9d-890f-9e825d856239,Middle,English,N,"Dari sini, make things much easier untuk mendapat informasi",1,Positive,1,1,1,1,1,1
+b3c177ca-2491-4d9d-890f-9e825d856239,Beginning,Indonesian,N,sangat memudahkan untuk mendapat informasi Dari sini,1,Positive,1,1,1,1,1,1
+b3c177ca-2491-4d9d-890f-9e825d856239,End,Indonesian,N,"untuk mendapat informasi, Dari sini sangat memudahkan",1,Positive,1,1,1,1,1,1
+b3c177ca-2491-4d9d-890f-9e825d856239,Middle,Indonesian,Y,"Dari sini, sangat memudahkan untuk mendapat informasi",1,Positive,1,1,1,1,1,1
+b539d031-448f-4a77-83db-993129d7754e,Beginning,English,N,cannot rotate screen Aplikasi di android,0,Negative,0,0,0,0,0,0
+b539d031-448f-4a77-83db-993129d7754e,End,English,N,"di android, Aplikasi cannot rotate screen",0,Negative,0,0,0,0,0,0
+b539d031-448f-4a77-83db-993129d7754e,Middle,English,N,Aplikasi cannot rotate screen di android,0,Negative,0,0,0,0,0,0
+b539d031-448f-4a77-83db-993129d7754e,Beginning,Indonesian,N,tidak bisa rotasi layar Aplikasi di android,0,Negative,0,0,0,0,0,0
+b539d031-448f-4a77-83db-993129d7754e,End,Indonesian,N,"di android, Aplikasi tidak bisa rotasi layar",0,Negative,0,0,0,0,0,0
+b539d031-448f-4a77-83db-993129d7754e,Middle,Indonesian,Y,Aplikasi tidak bisa rotasi layar di android,0,Negative,0,0,0,0,0,0
+b6378dc7-39b2-41c4-ae25-b41a6fbfe546,Beginning,English,N,still expensive Harga utk tiket pesawa t nya,0,Negative,0,0,0,0,0,0
+b6378dc7-39b2-41c4-ae25-b41a6fbfe546,End,English,N,"utk tiket pesawa t nya, Harga still expensive",0,Negative,0,0,0,0,0,1
+b6378dc7-39b2-41c4-ae25-b41a6fbfe546,Middle,English,N,Harga still expensive utk tiket pesawa t nya,0,Negative,0,0,0,0,0,0
+b6378dc7-39b2-41c4-ae25-b41a6fbfe546,Beginning,Indonesian,N,masih mahal Harga utk tiket pesawa t nya,0,Negative,1,0,0,0,0,0
+b6378dc7-39b2-41c4-ae25-b41a6fbfe546,End,Indonesian,N,"utk tiket pesawa t nya, Harga masih mahal ",0,Negative,1,0,0,0,0,1
+b6378dc7-39b2-41c4-ae25-b41a6fbfe546,Middle,Indonesian,Y,Harga masih mahal utk tiket pesawa t nya,0,Negative,1,0,0,0,0,0
+be267526-018c-4a19-800a-1f2ebdc9b4ef,Beginning,English,N,"make things easier utk apa pun,aplikasi tiket",1,Positive,1,1,1,1,1,1
+be267526-018c-4a19-800a-1f2ebdc9b4ef,End,English,N,"utk apa pun,aplikasi tiket make things easier",1,Positive,1,1,1,1,1,1
+be267526-018c-4a19-800a-1f2ebdc9b4ef,Middle,English,N,aplikasi tiket make things easier utk apa pun,1,Positive,1,1,1,1,1,1
+be267526-018c-4a19-800a-1f2ebdc9b4ef,Beginning,Indonesian,N,"mempermudah utk apa pun,aplikasi tiket",1,Positive,1,1,1,1,1,1
+be267526-018c-4a19-800a-1f2ebdc9b4ef,End,Indonesian,N,"utk apa pun,aplikasi tiket mempermudah",1,Positive,1,1,1,1,1,1
+be267526-018c-4a19-800a-1f2ebdc9b4ef,Middle,Indonesian,Y,aplikasi tiket mempermudah utk apa pun,1,Positive,1,1,1,1,1,1
+be6c7f85-cdfd-4c52-a6f3-4d6d68192c9d,Beginning,English,N,extremely satisfied Saya dengan aplikasi ini,1,Positive,1,1,1,1,1,1
+be6c7f85-cdfd-4c52-a6f3-4d6d68192c9d,End,English,N,"dengan aplikasi ini, Saya extremely satisfied",1,Positive,1,1,1,1,1,1
+be6c7f85-cdfd-4c52-a6f3-4d6d68192c9d,Middle,English,N,Saya extremely satisfied dengan aplikasi ini,1,Positive,1,1,1,1,1,1
+be6c7f85-cdfd-4c52-a6f3-4d6d68192c9d,Beginning,Indonesian,N,sangatlah puas Saya dengan aplikasi ini,1,Positive,1,1,1,1,1,1
+be6c7f85-cdfd-4c52-a6f3-4d6d68192c9d,End,Indonesian,N,"dengan aplikasi ini, Saya sangatlah puas",1,Positive,1,1,1,1,1,1
+be6c7f85-cdfd-4c52-a6f3-4d6d68192c9d,Middle,Indonesian,Y,Saya sangatlah puas dengan aplikasi ini,1,Positive,1,1,1,1,1,1
+c0f6461b-39c1-4917-8741-52e47a69d341,Beginning,English,N,does not match Harga di tanggal dengan pada saat sudah masuk pencarian penerbangan,0,Negative,0,0,0,0,0,0
+c0f6461b-39c1-4917-8741-52e47a69d341,End,English,N,Harga di tanggal dengan pada saat sudah masuk pencarian penerbangan does not match,0,Negative,0,0,0,0,0,0
+c0f6461b-39c1-4917-8741-52e47a69d341,Middle,English,N,Harga di tanggal does not match dengan pada saat sudah masuk pencarian penerbangan,0,Negative,0,0,0,0,0,0
+c0f6461b-39c1-4917-8741-52e47a69d341,Beginning,Indonesian,N,tidak sesuai Harga di tanggal dengan pada saat sudah masuk pencarian penerbangan,0,Negative,0,0,0,0,0,0
+c0f6461b-39c1-4917-8741-52e47a69d341,End,Indonesian,N,Harga di tanggal dengan pada saat sudah masuk pencarian penerbangan tidak sesuai,0,Negative,0,0,0,0,0,0
+c0f6461b-39c1-4917-8741-52e47a69d341,Middle,Indonesian,Y,Harga di tanggal tidak sesuai dengan pada saat sudah masuk pencarian penerbangan,0,Negative,0,0,0,0,0,0
+ca1e7c4d-7e44-4fa0-b7d5-111c6b50a38f,Beginning,English,N,difficult mau tf buat bayar tiket,0,Negative,0,0,0,0,0,0
+ca1e7c4d-7e44-4fa0-b7d5-111c6b50a38f,End,English,N,"mau tf buat bayar tiket, difficult",0,Negative,0,0,0,0,0,0
+ca1e7c4d-7e44-4fa0-b7d5-111c6b50a38f,Middle,English,N,mau tf difficult buat bayar tiket,0,Negative,0,0,0,0,0,0
+ca1e7c4d-7e44-4fa0-b7d5-111c6b50a38f,Beginning,Indonesian,N,susah mau tf buat bayar tiket,0,Negative,0,0,0,0,0,0
+ca1e7c4d-7e44-4fa0-b7d5-111c6b50a38f,End,Indonesian,Y,"mau tf buat bayar tiket, susah",0,Negative,0,0,0,0,0,0
+ca1e7c4d-7e44-4fa0-b7d5-111c6b50a38f,Middle,Indonesian,N,mau tf susah buat bayar tiket,0,Negative,0,0,0,0,0,0
+cb4fb0b4-b3d2-41a8-87e0-087057bf597f,Beginning,English,N,"cool,Terasa seperti punya travel agent sendiri.",1,Positive,0,0,0,1,1,1
+cb4fb0b4-b3d2-41a8-87e0-087057bf597f,End,English,N,Terasa seperti punya travel agent sendiri.cool,1,Positive,0,0,0,1,1,1
+cb4fb0b4-b3d2-41a8-87e0-087057bf597f,Middle,English,N,Terasa cool seperti punya travel agent sendiri.,1,Positive,0,0,0,1,1,1
+cb4fb0b4-b3d2-41a8-87e0-087057bf597f,Beginning,Indonesian,N,"keren,Terasa seperti punya travel agent sendiri.",1,Positive,0,0,0,1,1,1
+cb4fb0b4-b3d2-41a8-87e0-087057bf597f,End,Indonesian,Y,Terasa seperti punya travel agent sendiri.keren,1,Positive,0,0,0,0,1,1
+cb4fb0b4-b3d2-41a8-87e0-087057bf597f,Middle,Indonesian,N,Terasa keren seperti punya travel agent sendiri.,1,Positive,0,0,0,1,1,1
+ce73f22b-a57b-4a65-9522-22d095d73a4b,Beginning,English,N,very satisfied Saya dengan aplikasi ini,1,Positive,1,1,1,1,1,1
+ce73f22b-a57b-4a65-9522-22d095d73a4b,End,English,N,"dengan aplikasi ini,Saya very satisfied",1,Positive,1,1,1,1,1,1
+ce73f22b-a57b-4a65-9522-22d095d73a4b,Middle,English,N,Saya very satisfied dengan aplikasi ini,1,Positive,1,1,1,1,1,1
+ce73f22b-a57b-4a65-9522-22d095d73a4b,Beginning,Indonesian,N,sangat puas Saya dengan aplikasi ini,1,Positive,1,1,1,1,1,1
+ce73f22b-a57b-4a65-9522-22d095d73a4b,End,Indonesian,N,"dengan aplikasi ini,Saya sangat puas",1,Positive,1,1,1,1,1,1
+ce73f22b-a57b-4a65-9522-22d095d73a4b,Middle,Indonesian,Y,Saya sangat puas dengan aplikasi ini,1,Positive,1,1,1,1,1,1
+d8b1e0f9-3e78-4bc4-aa4e-ea205fc2cda9,Beginning,English,N,"very helpful utk perjalanan keluar kota, aplikasi Ticket",1,Positive,1,1,1,1,1,1
+d8b1e0f9-3e78-4bc4-aa4e-ea205fc2cda9,End,English,N,"Ticket, aplikasi perjalanan utk keluar kota yg very helpful",1,Positive,1,1,1,1,1,1
+d8b1e0f9-3e78-4bc4-aa4e-ea205fc2cda9,Middle,English,N,"Ticket, aplikasi yg very helpful utk perjalanan keluar kota",1,Positive,1,1,1,1,1,1
+d8b1e0f9-3e78-4bc4-aa4e-ea205fc2cda9,Beginning,Indonesian,N,"sangat membantu utk perjalanan keluar kota, aplikasi Ticket",1,Positive,1,1,1,1,1,1
+d8b1e0f9-3e78-4bc4-aa4e-ea205fc2cda9,End,Indonesian,N,"Ticket, aplikasi perjalanan utk keluar kota yg sangat membantu",1,Positive,1,1,1,1,1,1
+d8b1e0f9-3e78-4bc4-aa4e-ea205fc2cda9,Middle,Indonesian,Y,"Ticket, aplikasi yg sangat membantu perjalanan utk keluar kota",1,Positive,1,1,1,1,1,1
+daa95653-dbbf-4104-b305-f19e1d620804,Beginning,English,N,"unable to di hubungi, nomor cs",0,Negative,0,0,0,0,0,0
+daa95653-dbbf-4104-b305-f19e1d620804,End,English,N,"nomor cs di hubungi, unable to",0,Negative,0,0,0,0,0,0
+daa95653-dbbf-4104-b305-f19e1d620804,Middle,English,N,nomor cs unable to di hubungi,0,Negative,0,0,0,0,0,0
+daa95653-dbbf-4104-b305-f19e1d620804,Beginning,Indonesian,N,"tidak bisa di hubungi, nomor cs",0,Negative,0,0,0,0,0,0
+daa95653-dbbf-4104-b305-f19e1d620804,End,Indonesian,N,nomor cs di hubungi tidak bisa,0,Negative,0,0,0,0,0,0
+daa95653-dbbf-4104-b305-f19e1d620804,Middle,Indonesian,Y,nomor cs tidak bisa di hubungi,0,Negative,0,0,0,0,0,0
+dd214016-b864-408b-adbc-e8a201b9f776,Beginning,English,N,cheaper pesan lewat tiket com,1,Positive,1,1,1,1,1,0
+dd214016-b864-408b-adbc-e8a201b9f776,End,English,N,pesan lewat tiket com is cheaper,1,Positive,1,1,1,1,1,1
+dd214016-b864-408b-adbc-e8a201b9f776,Middle,English,N,pesan cheaper lewat tiket com,1,Positive,1,1,1,1,1,0
+dd214016-b864-408b-adbc-e8a201b9f776,Beginning,Indonesian,N,lebih murah pesan lewat tiket com,1,Positive,1,1,1,1,1,1
+dd214016-b864-408b-adbc-e8a201b9f776,End,Indonesian,Y,pesan lewat tiket com lebih murah,1,Positive,1,1,1,1,1,1
+dd214016-b864-408b-adbc-e8a201b9f776,Middle,Indonesian,N,pesan lebih murah lewat tiket com,1,Positive,1,1,1,1,1,1
+de2aa310-c2a9-46ab-b284-dd7b424c2ea3,Beginning,English,N,"cannot be used sejak diperbarui, aplikasinya.",0,Negative,0,0,0,0,0,1
+de2aa310-c2a9-46ab-b284-dd7b424c2ea3,End,English,N,sejak diperbarui Aplikasi cannot be used.,0,Negative,0,0,0,0,0,0
+de2aa310-c2a9-46ab-b284-dd7b424c2ea3,Middle,English,N,Aplikasi cannot be used sejak diperbarui.,0,Negative,0,0,0,0,0,0
+de2aa310-c2a9-46ab-b284-dd7b424c2ea3,Beginning,Indonesian,N,"tidak dapat digunakan sejak diperbarui, aplikasinya.",0,Negative,0,0,1,0,0,0
+de2aa310-c2a9-46ab-b284-dd7b424c2ea3,End,Indonesian,N,sejak diperbarui Aplikasi tidak dapat digunakan.,0,Negative,0,0,1,0,0,0
+de2aa310-c2a9-46ab-b284-dd7b424c2ea3,Middle,Indonesian,Y,Aplikasi tidak dapat digunakan sejak diperbarui.,0,Negative,0,0,1,0,0,0
+e0d12ffc-4be6-442e-91ac-8bba4a7a2f3d,Beginning,English,N,very long Proses refund tiket kereta.,0,Negative,0,0,0,0,0,0
+e0d12ffc-4be6-442e-91ac-8bba4a7a2f3d,End,English,N,Proses refund tiket kereta very long.,0,Negative,0,0,0,0,0,0
+e0d12ffc-4be6-442e-91ac-8bba4a7a2f3d,Middle,English,N,Proses refund very long untuk tiket kereta.,0,Negative,0,0,0,0,0,0
+e0d12ffc-4be6-442e-91ac-8bba4a7a2f3d,Beginning,Indonesian,N,sangat lama Proses refund tiket kereta.,0,Negative,0,0,0,0,0,0
+e0d12ffc-4be6-442e-91ac-8bba4a7a2f3d,End,Indonesian,Y,Proses refund tiket kereta sangat lama.,0,Negative,0,0,0,0,0,0
+e0d12ffc-4be6-442e-91ac-8bba4a7a2f3d,Middle,Indonesian,N,Proses refund sangat lama untuk tiket kereta.,0,Negative,0,0,0,0,0,0
+eb590c41-0772-4c4b-84d4-590fd0dda9b9,Beginning,English,N,"not quite friendly biaya reschedule tiket pesawatya,",0,Negative,0,0,0,0,0,0
+eb590c41-0772-4c4b-84d4-590fd0dda9b9,End,English,N,"biaya reschedule tiket pesawatya not quite friendly,",0,Negative,0,0,0,0,0,0
+eb590c41-0772-4c4b-84d4-590fd0dda9b9,Middle,English,N,"biaya not quite friendly untuk reschedule tiket pesawatya,",0,Negative,0,0,0,0,0,0
+eb590c41-0772-4c4b-84d4-590fd0dda9b9,Beginning,Indonesian,N,"kurang bersahabat biaya reschedule tiket pesawatya,",0,Negative,0,0,0,0,0,0
+eb590c41-0772-4c4b-84d4-590fd0dda9b9,End,Indonesian,Y,"biaya reschedule tiket pesawatya kurang bersahabat,",0,Negative,0,0,0,0,0,0
+eb590c41-0772-4c4b-84d4-590fd0dda9b9,Middle,Indonesian,N,"biaya kurang bersahabat untuk reschedule tiket pesawatya,",0,Negative,0,0,0,0,0,0
+ec069436-9bcd-4a16-b55c-45532cb5dc9c,Beginning,English,N,Very helpful bagi saya dalam perjalanan selama ini,1,Positive,1,1,1,1,1,1
+ec069436-9bcd-4a16-b55c-45532cb5dc9c,End,English,N,"dalam perjalanan saya selama ini, Very helpful",1,Positive,1,1,1,1,1,1
+ec069436-9bcd-4a16-b55c-45532cb5dc9c,Middle,English,N,"dalam perjalanan selama ini, Very helpful bagi saya",1,Positive,1,1,1,1,1,1
+ec069436-9bcd-4a16-b55c-45532cb5dc9c,Beginning,Indonesian,Y,Sangat membantu saya dalam perjalanan selama ini,1,Positive,1,1,1,1,1,1
+ec069436-9bcd-4a16-b55c-45532cb5dc9c,End,Indonesian,N,"dalam perjalanan saya selama ini, Sangat membantu",1,Positive,1,1,1,1,1,1
+ec069436-9bcd-4a16-b55c-45532cb5dc9c,Middle,Indonesian,N,"dalam perjalanan selama ini, Sangat membantu saya",1,Positive,1,1,1,1,1,1
+edd20897-f51f-4e8a-8f99-96998df2538e,Beginning,English,N,"Not complicated, cukup dari rumah beli tiketnya",1,Positive,1,1,1,1,1,1
+edd20897-f51f-4e8a-8f99-96998df2538e,End,English,N,"cukup dari rumah beli tiketnya, Not complicated",1,Positive,1,1,1,1,1,1
+edd20897-f51f-4e8a-8f99-96998df2538e,Middle,English,N,"beli tiketnya Not complicated, cukup dari rumah",1,Positive,1,1,1,1,1,1
+edd20897-f51f-4e8a-8f99-96998df2538e,Beginning,Indonesian,Y,"Tidak ribet, cukup dari rumah beli tiketnya",1,Positive,1,1,1,1,1,1
+edd20897-f51f-4e8a-8f99-96998df2538e,End,Indonesian,N,"cukup dari rumah beli tiketnya, Tidak ribet",1,Positive,1,1,1,1,1,1
+edd20897-f51f-4e8a-8f99-96998df2538e,Middle,Indonesian,N,"beli tiketnya Tidak ribet, cukup dari rumah",1,Positive,1,1,1,1,1,1
+ee3fab42-7763-4274-8187-980707c66d48,Beginning,English,N,"Very good untuk rekomendasi tiket, mulai dari harga dan promonya",1,Positive,1,1,1,1,1,1
+ee3fab42-7763-4274-8187-980707c66d48,End,English,N,"untuk rekomendasi tiket, mulai dari harga dan promonya, Very good",1,Positive,1,1,1,1,1,1
+ee3fab42-7763-4274-8187-980707c66d48,Middle,English,N,"untuk rekomendasi tiket, Very good, mulai dari harga dan promonya",1,Positive,1,1,1,1,1,1
+ee3fab42-7763-4274-8187-980707c66d48,Beginning,Indonesian,Y,"Sangat baik untuk rekomendasi tiket, mulai dari harga dan promonya",1,Positive,1,1,1,1,1,1
+ee3fab42-7763-4274-8187-980707c66d48,End,Indonesian,N,"untuk rekomendasi tiket, mulai dari harga dan promonya, Sangat baik",1,Positive,1,1,1,1,1,1
+ee3fab42-7763-4274-8187-980707c66d48,Middle,Indonesian,N,"untuk rekomendasi tiket, Sangat baik, mulai dari harga dan promonya",1,Positive,1,1,1,1,1,1
+fbf5f3a4-bb84-4a3c-9aff-5e390f2f7439,Beginning,English,N,"dissapointing, masa stasiun jurang mangu kaga ada.",0,Negative,0,0,0,0,0,0
+fbf5f3a4-bb84-4a3c-9aff-5e390f2f7439,End,English,N,"masa stasiun jurang mangu kaga ada, dissapointing",0,Negative,0,0,0,0,0,0
+fbf5f3a4-bb84-4a3c-9aff-5e390f2f7439,Middle,English,N,"stasiun jurang mangu, dissapointing, kaga ada.",0,Negative,0,0,1,0,0,0
+fbf5f3a4-bb84-4a3c-9aff-5e390f2f7439,Beginning,Indonesian,Y,"payah, masa stasiun jurang mangu kaga ada.",0,Negative,0,0,1,0,0,0
+fbf5f3a4-bb84-4a3c-9aff-5e390f2f7439,End,Indonesian,N,"masa stasiun jurang mangu kaga ada, payah",0,Negative,0,0,1,0,0,0
+fbf5f3a4-bb84-4a3c-9aff-5e390f2f7439,Middle,Indonesian,N,"stasiun jurang mangu, payah, kaga ada.",0,Negative,0,0,1,0,0,0
+fd189eb4-9f4b-4ab8-ab44-cc942325da0e,Beginning,English,N,"still prone to error untuk aplikasinya, untuk lihat my order nya",0,Negative,0,0,0,0,0,0
+fd189eb4-9f4b-4ab8-ab44-cc942325da0e,End,English,N,"untuk lihat my order nya, untuk aplikasinya still prone to error",0,Negative,1,0,0,0,0,1
+fd189eb4-9f4b-4ab8-ab44-cc942325da0e,Middle,English,Y,"untuk aplikasinya still prone to error, untuk lihat my order nya",0,Negative,0,0,0,0,0,0
+fd189eb4-9f4b-4ab8-ab44-cc942325da0e,Beginning,Indonesian,N,"masih sering galat untuk aplikasinya, untuk lihat my order nya",0,Negative,1,0,0,0,0,0
+fd189eb4-9f4b-4ab8-ab44-cc942325da0e,End,Indonesian,N,"untuk lihat my order nya, untuk aplikasinya masih sering galat",0,Negative,1,0,1,1,0,0
+fd189eb4-9f4b-4ab8-ab44-cc942325da0e,Middle,Indonesian,N,"untuk aplikasinya masih sering galat, untuk lihat my order nya",0,Negative,1,0,1,0,0,0

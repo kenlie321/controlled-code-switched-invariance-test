@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+test_env/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights and training artifacts (large; the code retrains them)
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+checkpoints/
+runs/
+wandb/
+lightning_logs/
+outputs/
+
+# Hugging Face / pip caches
+.cache/
+huggingface/
+
+# Raw source data (download from Kaggle instead of redistributing)
+data/raw/
+data/*.zip
+kaggle.json
+
+# Secrets and tokens
+.env
+*.token
+.huggingface/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Scratch files
+tmp/
+scratch/
+*.log
