@@ -112,4 +112,4 @@ The variants were built and audited by a single person, the six background token
 
 ## License
 
-Code: MIT. Data: [license]. See `LICENSE`.
+Code: MIT. See `LICENSE`.
