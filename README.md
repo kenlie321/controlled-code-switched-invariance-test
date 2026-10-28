@@ -80,6 +80,7 @@ Settings (Section 2.6 of the paper):
 - Linear models: TF-IDF with `ngram_range=(1,2)`, `min_df=2`, `max_df=0.95`, no stopword removal. Logistic Regression `max_iter=1000, C=1.0, solver='lbfgs'`. Linear SVC `max_iter=1000, C=1.0, class_weight='balanced'`.
 - Transformers: `bert-base-uncased`, `bert-base-multilingual-uncased`, `xlm-roberta-base`, `indolem/indobert-base-uncased`. `max_length=60`, `learning_rate=1e-5`, `batch_size=16`, 3 epochs, AdamW (weight decay 0.01), gradient clipping 1.0, no scheduler, no validation set, no tuning.
 - Seed 42 for Python, NumPy and PyTorch. One fine-tuning run per model on the main split.
+- Global Seed of 42 was set once at the start of the session. Run all cells in order
 
 Fine-tuning on a GPU is not bit-for-bit deterministic, so rerunning may change a few predictions. The predictions behind the paper are stored in `results/predictions_per_variant_test_split.csv`. They cover the 330 test variants of the main split only.
 
