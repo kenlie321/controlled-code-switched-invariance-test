@@ -102,12 +102,17 @@ The variants were built and audited by a single person, the six background token
 ## Citation
 
 ```bibtex
-@article{lie[YEAR]position,
+@article{Lie_Santoso_2026,
   title   = {Position and Language as Diagnostic Variables: A Controlled Invariance Test of Sentiment Classifiers on Indonesian-English Code-Switched Reviews},
+  volume  = {11},
+  number  = {2},
+  url     = {https://journal.uin-alauddin.ac.id/index.php/instek/article/view/71617},
+  doi     = {10.24252/instek.v11i2.71617},
+  journal = {Jurnal INSTEK (Informatika Sains dan Teknologi)},
   author  = {Lie, Kennedy and Santoso, Handri},
-  journal = {[JOURNAL]},
-  year    = {[YEAR]},
-  doi     = {[DOI]}
+  year    = {2026},
+  month   = {Oct.},
+  pages   = {468--490}
 }
 ```
 
